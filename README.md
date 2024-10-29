@@ -1,3 +1,14 @@
+Miska Halonen
+Kuopio FI
+I used
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
+https://docs.google.com/presentation/d/1HTwbXGK0ujGUNz2nufEdhDzyzY9SR4Ik5MaBRk1DAt4/edit#slide=id.g2d3e9f096de_0_262
+
+i also interacted with chat gpt but not sure how to share the conversations
+mostly used it to fix some bugs and remind me of some commands etc.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
